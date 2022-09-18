@@ -11,7 +11,7 @@ body {
     background-position: top center;
     background-size:100% auto; 
     background-repeat:no-repeat;
-    background-color: #121214 ;
+    background-color: black ;
 }
 body * {
     font-family:'Noto Sans', sans-serif;
@@ -59,9 +59,17 @@ section ul{
     flex-wrap: wrap;
 }
 .game-list img {
-    width: 90px;
+    width: 100px;
     border-radius: 8px;
 
+}
+.game-list2 img {
+    width: 100px;
+    border-radius: 8px;
+
+}
+.img3{
+    width:20%;
 }
 .channel-name  img {
     border-radius: 50%;
